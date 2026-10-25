@@ -6,6 +6,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ![working with Snack1](screenshot_1.png)  
 ![working with Snack2](screenshot_2.png)
 ![working with Snack3](screenshot_3.png)
+![working with Snack4](screenshot_4.png)
+![working with Snack5](screenshot_5.png)
 
 ```
 
